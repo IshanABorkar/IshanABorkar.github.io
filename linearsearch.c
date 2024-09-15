@@ -1,3 +1,4 @@
+//program for linear search 15 sept 2024
 #include<stdio.h>
 void linear_search(int[],int);
 int main()
